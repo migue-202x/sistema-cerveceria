@@ -1,5 +1,6 @@
-# sistema-cerveceria
+# Sistema-Web-cerveceria
 
-Instrucciones para instalar y usar el Sistema-Web-Cerveceria: ingresar a carpeta llamada Manuales y descargar los documentos 'Manual del Programador' y 'Manual de Usuario'. En el 'Manual del Programador' se detalla todas las herramientas necesarias para instalar el sistema localmente. 
-En el documento 'Manual de usuario' se detalla paso a paso como utilizar el sistema. La base de datos 'cerveceria.sql' ya 
-contiene cargado datos para probar el sistema. Estos datos pueden ser modificados o eliminados.
+  Sistema Web para una Cervecería Artesanal que permite mantener un registro detallado sobre los procesos de producción de lotes de cerveza y así obtener la trazabilidad de cada barril. 
+  El sistema permite ABM (ya sea sobre, clientes, proveedores, cocciones, insumos, cuentas corrientes, ingredientes, entregas de barriles vendidos), mostrar alertas de stock (ya     sea sobre insumos, ingredientes y cocciones), hacer seguimiento de barriles (mostrando alerta de barriles que no han sido devueltos ordenados por fecha de entrega), calcular    
+  cantidad de ingredientes necesarios para producir X litros de una cocción, calcular costos de producción por litro de cada cocción, mostrar precios y descuentos.
+
